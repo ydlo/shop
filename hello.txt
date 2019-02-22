@@ -2,7 +2,7 @@ welcome git world!
 me too!
 you too!
 he too!
-all!
+404bug处理分支！
 删除这行，看怎么合并分支！
 0000000000000000000000000000000000
 在分支上添加内容！
